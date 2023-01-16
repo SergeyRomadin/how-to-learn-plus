@@ -1,4 +1,10 @@
 .header__link{
   text-decoration: none;
   color: #2f80ed;
+  position: relative;
+  z-index: 5;
+}
+.header__link:hover{
+  color: #88b1e7;
+  transition: color .3s ease;
 }

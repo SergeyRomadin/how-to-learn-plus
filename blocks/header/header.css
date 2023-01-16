@@ -6,6 +6,5 @@
   padding: 64px 0 0 64px;
   position: relative;
   overflow: hidden;
-  z-index: -5;
   /* выше установили ограничения для секции */
 }
