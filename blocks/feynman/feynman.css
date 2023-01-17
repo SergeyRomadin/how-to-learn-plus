@@ -3,6 +3,7 @@
   background: #f2f2f2 no-repeat url(../../images/feynman.png);
   background-size: 867px 637px;
   background-position: 0% 100%;
+  box-sizing: border-box;
   min-height: 890px;
   position: relative;
   display: flex;
