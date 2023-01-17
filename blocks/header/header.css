@@ -6,5 +6,7 @@
   padding: 64px 0 0 64px;
   position: relative;
   overflow: hidden;
+  display: flex;
+  align-items: center;
   /* выше установили ограничения для секции */
 }
